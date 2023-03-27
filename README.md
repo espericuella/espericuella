@@ -18,12 +18,12 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📚I study at the [TEB Edukacja](https://technikum.pl/) technical school on the profile of a programmer;
 - 🔍 I am now discovering new frameworks and many others dev tools;
-- 📫 How to reach me: contact@nylestroke.me;
+- 📫 How to reach me: info@espericuella.net;
 
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/nylestroke/">
+  <a href="https://github.com/espericuella/">
     <img width="55%" align="right" alt="nylestroke's github stats" src="https://github-readme-stats.vercel.app/api?username=espericuella&show_icons=true&hide_border=true" />
   </a>
 
