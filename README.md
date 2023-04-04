@@ -13,8 +13,7 @@
 
 <img width="55%" align="right" alt="Github" src="./banner.svg" />
 
-- 👨🏽‍💻 I’m currently working on [Vladiola Watches Store](https://github.com/espericuella/vladiola-watches);
-- 🌱 I’m currently learning C++ and OpenGL; 
+- 🌱 I’m currently learning Rust and OpenGL; 
 - 💬 Ask me about anything, I am happy to help;
 - 📚I study at the [TEB Edukacja](https://technikum.pl/) technical school on the profile of a programmer;
 - 🔍 I am now discovering new frameworks and many others dev tools;
