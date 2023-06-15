@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/nylestroke/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:vladyslav@potapenko.tech)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:vpotapenko@outlook.com)
-[![ViewCount](https://views.whatilearened.today/views/github/espericuella/espericuella.svg)](https://views.whatilearened.today/views/github/nylestroke/nylestroke.svg)
+[![ViewCount](https://views.whatilearened.today/views/github/nylestroke/nylestroke.svg)](https://views.whatilearened.today/views/github/nylestroke/nylestroke.svg)
 
 &nbsp;
 
@@ -22,7 +22,7 @@
 **Languages and Tools:** 
 
 <p>
-  <a href="https://github.com/espericuella/">
+  <a href="https://github.com/nylestroke/">
     <img width="55%" align="right" alt="nylestroke's github stats" src="https://github-readme-stats.vercel.app/api?username=nylestroke&show_icons=true&hide_border=true" />
   </a>
 
