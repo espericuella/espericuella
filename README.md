@@ -17,13 +17,13 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📚I study at the [TEB Edukacja](https://technikum.pl/) technical school on the profile of a programmer;
 - 🔍 I am now discovering new frameworks and many others dev tools;
-- 📫 How to reach me: info@espericuella.net;
+- 📫 How to reach me: vladyslav@potapenko.tech;
 
 **Languages and Tools:** 
 
 <p>
   <a href="https://github.com/espericuella/">
-    <img width="55%" align="right" alt="nylestroke's github stats" src="https://github-readme-stats.vercel.app/api?username=espericuella&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="nylestroke's github stats" src="https://github-readme-stats.vercel.app/api?username=nylestroke&show_icons=true&hide_border=true" />
   </a>
 
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
