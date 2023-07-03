@@ -22,7 +22,7 @@
 - Python (mostly automative scripts)
 - Little bit of Kotlin, Java and C#
 
-## 🐾 Language's knowledge:
+## 🐾 Language knowledge:
 - Russian
 - Polish
 - English
