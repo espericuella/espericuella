@@ -18,11 +18,17 @@
 - Front-end development, HTML, CSS, SASS, Electron
 - Mobile development, mostly Ionic Framework (Angular)
 - DevOps, GitLab CI, AWS
-- Database: Microsoft SQL Server, PostgreSQL
+- Database: Microsoft SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
 - Python (mostly automative scripts)
 - Little bit of Kotlin, Java and C#
 
+## 📌 Currently learning :
+- C/C++
+- Premake/XMake/CMake build systems
+- GL/VK/D3D graphics
+
 ## 🐾 Language knowledge:
-- Russian
-- Polish
-- English
+- Russian (native)
+- Ukrainian (native)
+- Polish (C1)
+- English (B2)
