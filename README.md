@@ -7,8 +7,6 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:vpotapenko@outlook.com)
 [![ViewCount](https://views.whatilearened.today/views/github/nylestroke/nylestroke.svg)](https://views.whatilearened.today/views/github/nylestroke/nylestroke.svg)
 
-&nbsp;
-
 ## 📨 Contact with me
 - You can find me as `@nylestroke` on Discord, Telegram or Instagram.
 
