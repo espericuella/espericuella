@@ -12,11 +12,13 @@
 
 ## 💻 Experienced in
 - TypeScript/JavaScript in web and node.js, mostly NestJS for backend
+- Express.js, gRPC, GraphQL with Apollo
 - Angular, SSR, experienced in "new" standalone style components as well
-- Front-end development, HTML, CSS, SASS, Electron
-- Mobile development, mostly Ionic Framework (Angular)
-- DevOps, GitLab CI, AWS
-- Database: Microsoft SQL Server, PostgreSQL, MySQL, SQLite, MongoDB
+- Vue 3, Vuetify, Pinia, PrimeVue
+- Front-end development, HTML, CSS, SASS, Tailwind, Bootstrap, Electron
+- Mobile development, mostly Ionic Framework (Angular or Vue)
+- DevOps, GitLab CI, AWS, GitLab Runner, Linux (Debian based, Arch based, RedHat based)
+- Database: Microsoft SQL Server, PostgreSQL, MySQL, SQLite, MongoDB, Supabase
 - Python (mostly automative scripts)
 - Little bit of Kotlin, Java and C#
 
