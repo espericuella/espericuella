@@ -25,7 +25,8 @@
 ## 📌 Currently learning :
 - C/C++
 - Premake/XMake/CMake build systems
-- GL/VK/D3D graphics
+- OpenGL/Vulkan/DirectX graphics
+- Game Engine development
 
 ## 🐾 Language knowledge:
 - Russian (native)
