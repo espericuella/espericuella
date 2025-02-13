@@ -11,6 +11,8 @@
 - You can find me as `@monntecc` on Discord, Telegram or Instagram.
 
 ## 💻 Experienced in
+- C/C++, CMake
+- C#, mostly .NET and .NET Core, ASP.NET
 - TypeScript/JavaScript in web and node.js, mostly NestJS for backend
 - Express.js, gRPC, GraphQL with Apollo
 - Angular, SSR, experienced in "new" standalone style components as well
@@ -20,16 +22,10 @@
 - DevOps, GitLab CI, AWS, GitLab Runner, Linux (Debian based, Arch based, RedHat based)
 - Database: Microsoft SQL Server, PostgreSQL, MySQL, SQLite, MongoDB, Supabase
 - Python (mostly automative scripts)
-- Little bit of Kotlin, Java and C#
-
-## 📌 Currently learning :
-- Rust
-- OpenGL/Vulkan/DirectX graphics
-- Game Engine development
 
 ## 🐾 Language knowledge:
 - Russian (native)
 - Ukrainian (native)
 - Polish (C1)
 - English (B2)
-- Spanish (A2) - still learning
+- Spanish (A2/B1)
