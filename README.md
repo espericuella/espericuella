@@ -1,4 +1,4 @@
-## Hello, I'm Vladyslav Potapenko, a Software Developer currently based in Spain.
+### Hello, I'm Vladyslav Potapenko, experienced software developer.
 
 ## 📨 Contact with me
 - You can find me as `@monntecc` on Discord, Telegram or Instagram.
